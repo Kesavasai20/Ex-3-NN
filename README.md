@@ -35,7 +35,7 @@ Step 3: Repeat the  iteration  until the losses become constant and  minimum<BR>
     (v)  Append the losses in a list <BR>
 Step 4 : Test for the XOR patterns.
 
-<H3>Program:</H3>
+# Program:
 ```py
 import numpy as np
 import pandas as pd
@@ -106,10 +106,10 @@ test=np.array([[0],[0]])
 predict(w1,w2,test)
 ```
 
-<H3>Output:</H3>
+# Output:
 
 ![image](https://github.com/user-attachments/assets/ac4bb46e-c5be-484a-b9de-01c25ecca7fe)
 
 
-<H3> Result:</H3>
+# Result:
 Thus, XOR classification problem can be solved using MLP in Python 
